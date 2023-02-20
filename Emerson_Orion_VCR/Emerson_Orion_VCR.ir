@@ -1,0 +1,176 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power_Tap
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9130 4361 700 473 676 474 675 475 674 476 674 476 674 476 674 477 673 1575 673 1575 673 1575 673 477 673 1575 673 1575 673 1575 673 1575 673 477 673 1575 673 1575 673 477 673 477 673 1575 673 477 673 477 673 477 673 477 673 477 673 1575 673 1575 673 477 673 1575 673 1575 673 1576 567
+# 
+name: Play
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 16 E9 00 00
+# 
+name: Stop
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 17 E8 00 00
+# 
+name: Enter
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 45 BA 00 00
+# 
+name: Menu
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 50 AF 00 00
+# 
+name: Rew
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 19 E6 00 00
+# 
+name: Fwd
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 18 E7 00 00
+# 
+name: Pause_Still
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 1A E5 00 00
+# 
+name: Rec_OTR
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 15 EA 00 00
+# 
+name: Channel_Up
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 0A F5 00 00
+# 
+name: Channel_Down
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 0B F4 00 00
+# 
+name: Timer_Rec
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 0D F2 00 00
+# 
+name: Auto_Tracking
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 52 AD 00 00
+# 
+name: Cancel
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 4A B5 00 00
+# 
+name: Counter_Reset
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 4C B3 00 00
+# 
+name: Input_Select
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 0C F3 00 00
+# 
+name: TV_VCR
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 12 ED 00 00
+# 
+name: Speed
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 1E E1 00 00
+# 
+name: Call
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 5F A0 00 00
+# 
+name: 1
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 01 FE 00 00
+# 
+name: 2
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9211 4309 755 395 753 370 728 449 701 449 649 475 675 501 649 501 649 1599 649 1600 648 1599 649 501 649 1599 649 1599 649 1599 649 1599 649 501 649 501 649 1599 649 501 649 501 649 501 649 500 650 500 650 500 650 1599 649 500 650 1598 650 1598 650 1598 650 1598 650 1598 650 1599 544
+# 
+name: 3
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 03 FC 00 00
+# 
+name: 4
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9185 4308 755 395 755 394 754 395 702 448 755 395 701 449 649 501 649 1599 649 1600 649 1600 648 501 649 1599 649 1599 649 1599 677 1571 649 501 648 501 649 501 649 1599 649 501 649 501 649 500 650 500 650 500 650 1599 649 1598 650 500 650 1598 650 1598 650 1598 650 1598 650 1598 545
+# 
+name: 5
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9212 4309 755 316 833 394 754 366 731 448 701 449 701 450 649 501 649 1570 678 1599 649 1599 649 501 649 1599 649 1599 650 1599 649 1599 649 501 649 1599 649 501 649 1599 649 501 649 501 649 501 649 501 649 501 649 500 650 1599 649 500 650 1599 649 1598 650 1598 650 1598 650 1598 545
+# 
+name: 6
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9214 4310 755 395 752 397 701 449 649 501 649 501 649 501 649 501 649 1599 649 1599 649 1599 649 501 649 1599 649 1599 649 1599 649 1599 649 501 649 501 649 1599 649 1599 649 501 649 500 650 500 650 500 650 500 650 1599 649 500 650 500 650 1598 650 1598 650 1598 650 1599 649 1599 544
+# 
+name: 7
+type: parsed
+protocol: NECext
+address: 80 7B 00 00
+command: 07 F8 00 00
+# 
+name: 8
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9181 4310 755 304 845 396 701 450 699 450 649 501 649 473 677 501 649 1599 649 1600 648 1600 649 501 649 1599 649 1599 649 1599 648 1599 649 501 649 501 649 501 649 501 649 1599 649 500 650 500 650 500 650 500 650 1598 650 1598 650 1598 650 500 650 1598 650 1599 649 1598 650 1598 545
+# 
+name: 9
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9213 4281 784 303 845 396 701 449 649 501 649 502 648 501 649 501 649 1600 648 1600 648 1600 648 501 649 1599 649 1599 649 1599 649 1599 649 501 649 1599 649 501 649 501 649 1599 649 501 649 500 650 500 650 500 650 500 650 1598 650 1598 650 500 650 1598 650 1598 650 1599 649 1599 544
+# 
+name: 0
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9181 4309 755 395 700 450 700 450 700 450 649 501 649 501 649 501 649 1599 649 1599 649 1599 649 501 649 1599 649 1599 649 1599 649 1599 649 501 649 501 649 500 650 500 650 500 650 500 650 500 650 500 650 500 650 1598 650 1598 650 1598 650 1599 649 1598 650 1598 650 1599 649 1599 544
