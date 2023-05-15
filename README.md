@@ -3,4 +3,3 @@
 # Once you have access to the folder, you can place the desired .ir files into it, including any additional subfolders you may want.
 
 # After transferring the files, you can start using the infrared feature by locating the corresponding remotes on your flipper 
-# Then experimenting with the available buttons. Enjoy exploring the capabilities of your flipper's infrared functionality!
